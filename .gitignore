@@ -1,0 +1,17 @@
+.vs/
+**/x64/
+**/Debug/
+**/Release/
+*.user
+*.suo
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.ilk
+*.ipch/
+*.db
+.env
+.env.*
+!.env.example
